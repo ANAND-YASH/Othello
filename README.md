@@ -1,1 +1,2 @@
 # Othello
+Author -Yash Anand
